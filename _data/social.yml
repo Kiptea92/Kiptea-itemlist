@@ -4,7 +4,7 @@ email_address:
 behance:
 bitbucket:
 dribbble:
-facebook: NeoQui
+facebook: 
 flickr:
 gitlab:
 github:
@@ -18,11 +18,11 @@ stack_overflow:
 stack_exchange:
 steam:
 tumblr:
-twitter: Neo_and_Qui
+twitter: Kiptea_Official
 vimeo:
 wordpress:
 youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: Neo_and_Qui
+twitch: Kiptea
 
 # Share button options
 share:
