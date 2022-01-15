@@ -5,7 +5,7 @@ description: >-
   An expanded item list for TwitchToolkit for use on Kiptea's Rimworld streams.
 
 baseurl: '/Kiptea-itemlist' # the subpath of your site, e.g. /blog
-url: 'https://kiptea.github.io/Kiptea-itemlist' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://kiptea92.github.io/Kiptea92-itemlist' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 'Kiptea_Official'
 github_username: 'Kiptea92'
 
