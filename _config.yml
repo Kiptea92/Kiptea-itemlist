@@ -2,11 +2,11 @@
 title: "Kiptea's Purchase List"
 favicon: assets/img/favicon.png
 description: >-
-  An expanded item list for TwitchToolkit for use on Neolotty's Rimworld streams.
+  An expanded item list for TwitchToolkit for use on Kiptea's Rimworld streams.
 
 baseurl: '/Kiptea-itemlist' # the subpath of your site, e.g. /blog
-url: 'https://neolotty.github.io/Neolotty-itemlist' # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 'Kiptea-Official'
+url: 'https://kiptea.github.io/Kiptea-itemlist' # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 'Kiptea_Official'
 github_username: 'Kiptea92'
 
 # Item list settings
