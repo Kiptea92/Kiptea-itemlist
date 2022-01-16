@@ -1487,6 +1487,7 @@
 		"abr": "MG-4110B",
 		"price": 883,
 		"category": "Ranged weapons",
+		"description": "Sniper Rifle",
 		"defname": "Gun_SniperRifle"
 	},
 	{
