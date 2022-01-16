@@ -1428,7 +1428,7 @@
 		"price": 226,
 		"category": "Ranged weapons",
 		"description": "Revolver",
-		"defname": "Gun_Revolver"
+		"defname": "Gun_R2"
 	},
 	{
 		"abr": "autopistol",
@@ -1441,28 +1441,28 @@
 		"price": 367,
 		"category": "Ranged weapons",
 		"description": "Machine-gun Pistol",
-		"defname": "Gun_MachinePistol"
+		"defname": "Gun_FLE-17"
 	},
 	{
 		"abr": "IGL-40",
 		"price": 567,
 		"category": "Ranged weapons",
 		"description": "Incendiary launcher",
-		"defname": "Gun_IncendiaryLauncher"
+		"defname": "Gun_IGL-40"
 	},
 	{
 		"abr": "Model 8",
 		"price": 425,
 		"category": "Ranged weapons",
 		"description": "Bolt-Action Rifle",
-		"defname": "Gun_BoltActionRifle"
+		"defname": "Gun_Model_8"
 	},
 	{
 		"abr": "XII-G",
 		"price": 425,
 		"category": "Ranged weapons",
 		"description": "Pump Shotgun",
-		"defname": "Gun_PumpShotgun"
+		"defname": "Gun_XII-G"
 	},
 	{
 		"abr": "chainshotgun",
@@ -1481,14 +1481,14 @@
 		"price": 708,
 		"category": "Ranged weapons",
 		"description": "LMG",
-		"defname": "Gun_LMG"
+		"defname": "Gun_LMG-556"
 	},
 	{
 		"abr": "R4",
 		"price": 800,
 		"category": "Ranged weapons",
 		"description": "Charged-shot Assault Rifle",
-		"defname": "Gun_AssaultRifle"
+		"defname": "Gun_R4"
 	},
 	{
 		"abr": "MG-4110B",
