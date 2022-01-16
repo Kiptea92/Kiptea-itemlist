@@ -1427,7 +1427,7 @@
 		"abr": "R2",
 		"price": 226,
 		"category": "Ranged weapons",
-		"description": "Revolver";
+		"description": "Revolver",
 		"defname": "Gun_Revolver"
 	},
 	{
@@ -1440,28 +1440,28 @@
 		"abr": "FLE-17",
 		"price": 367,
 		"category": "Ranged weapons",
-		"description": "Machine-gun Pistol";
+		"description": "Machine-gun Pistol",
 		"defname": "Gun_MachinePistol"
 	},
 	{
 		"abr": "IGL-40",
 		"price": 567,
 		"category": "Ranged weapons",
-		"description": "Incendiary launcher";
+		"description": "Incendiary launcher",
 		"defname": "Gun_IncendiaryLauncher"
 	},
 	{
 		"abr": "Model 8",
 		"price": 425,
 		"category": "Ranged weapons",
-		"description": "Bolt-Action Rifle";
+		"description": "Bolt-Action Rifle",
 		"defname": "Gun_BoltActionRifle"
 	},
 	{
 		"abr": "XII-G",
 		"price": 425,
 		"category": "Ranged weapons",
-		"description": "Pump Shotgun";
+		"description": "Pump Shotgun",
 		"defname": "Gun_PumpShotgun"
 	},
 	{
