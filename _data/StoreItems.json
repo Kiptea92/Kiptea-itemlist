@@ -1478,9 +1478,10 @@
 		"defname": "Gun_LMG"
 	},
 	{
-		"abr": "assaultrifle",
+		"abr": "R4",
 		"price": 800,
 		"category": "Ranged weapons",
+		"description": "Charged-shot Assault Rifle",
 		"defname": "Gun_AssaultRifle"
 	},
 	{
