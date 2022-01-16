@@ -1480,7 +1480,7 @@
 		"abr": "lmg-556",
 		"price": 708,
 		"category": "Ranged weapons",
-		"description": "LMG";
+		"description": "LMG",
 		"defname": "Gun_LMG"
 	},
 	{
