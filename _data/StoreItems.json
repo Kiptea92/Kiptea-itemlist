@@ -1488,7 +1488,7 @@
 		"price": 883,
 		"category": "Ranged weapons",
 		"description": "Sniper Rifle",
-		"defname": "Gun_SniperRifle"
+		"defname": "Gun_MG-4110B"
 	},
 	{
 		"abr": "triplerocketlauncher",
