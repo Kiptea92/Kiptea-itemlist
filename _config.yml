@@ -41,7 +41,7 @@ store:
     # Whether or not the item list will display the mod that added it.
     mod: true
     # Whether or not the item list will display the command a viewer should type for purchasing that item.
-    usage: true
+    usage: false
   events:
     # Whether or not the event list will display the command a viewer should type for purchasing that event.
     usage: true
