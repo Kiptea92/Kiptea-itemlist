@@ -4,7 +4,6 @@
 		"abr": "beer",
 		"price": 20,
 		"category": "Drugs",
-		"description": "Get Drunk",
 		"defname": "Beer"
 	},
 	{
@@ -1424,10 +1423,9 @@
 		"defname": "MeleeWeapon_Spear"
 	},
 	{
-		"abr": "R2",
+		"abr": "revolver",
 		"price": 226,
 		"category": "Ranged weapons",
-		"description": "Revolver",
 		"defname": "Gun_Revolver"
 	},
 	{
@@ -1437,31 +1435,27 @@
 		"defname": "Gun_Autopistol"
 	},
 	{
-		"abr": "FLE-17",
+		"abr": "machinepistol",
 		"price": 367,
 		"category": "Ranged weapons",
-		"description": "Machine-gun Pistol",
 		"defname": "Gun_MachinePistol"
 	},
 	{
-		"abr": "IGL-40",
+		"abr": "incendiarylauncher",
 		"price": 567,
 		"category": "Ranged weapons",
-		"description": "Incendiary launcher",
-		"defname": "Gun_IncendiaryLauncher-40"
+		"defname": "Gun_IncendiaryLauncher"
 	},
 	{
-		"abr": "Model-8",
+		"abr": "bolt-actionrifle",
 		"price": 425,
 		"category": "Ranged weapons",
-		"description": "Bolt-Action Rifle",
 		"defname": "Gun_BoltActionRifle"
 	},
 	{
-		"abr": "XII-G",
+		"abr": "pumpshotgun",
 		"price": 425,
 		"category": "Ranged weapons",
-		"description": "Pump Shotgun",
 		"defname": "Gun_PumpShotgun"
 	},
 	{
@@ -1477,25 +1471,22 @@
 		"defname": "Gun_HeavySMG"
 	},
 	{
-		"abr": "lmg-556",
+		"abr": "lmg",
 		"price": 708,
 		"category": "Ranged weapons",
-		"description": "LMG",
 		"defname": "Gun_LMG"
 	},
 	{
-		"abr": "R4",
+		"abr": "assaultrifle",
 		"price": 800,
 		"category": "Ranged weapons",
-		"description": "Charged-shot Assault Rifle",
 		"defname": "Gun_AssaultRifle"
 	},
 	{
-		"abr": "MG-4110B",
+		"abr": "sniperrifle",
 		"price": 883,
 		"category": "Ranged weapons",
-		"description": "Sniper Rifle",
-		"defname": "Gun_MG-4110B"
+		"defname": "Gun_SniperRifle"
 	},
 	{
 		"abr": "triplerocketlauncher",
