@@ -1431,10 +1431,9 @@
 		"defname": "Gun_Revolver"
 	},
 	{
-		"abr": "M482",
+		"abr": "autopistol",
 		"price": -10,
 		"category": "Ranged weapons",
-		"description": "Mini Machine Gun",
 		"defname": "Gun_Autopistol"
 	},
 	{
@@ -1466,10 +1465,9 @@
 		"defname": "Gun_PumpShotgun"
 	},
 	{
-		"abr": "CS-12",
+		"abr": "chainshotgun",
 		"price": 675,
 		"category": "Ranged weapons",
-		"description": "Chain Shotgun",
 		"defname": "Gun_ChainShotgun"
 	},
 	{
@@ -1500,10 +1498,9 @@
 		"defname": "Gun_MG-4110B"
 	},
 	{
-		"abr": "BlackboxDRL",
+		"abr": "triplerocketlauncher",
 		"price": 1667,
 		"category": "Ranged weapons",
-		"description": "Triple Rocket Launcher",
 		"defname": "Gun_TripleRocket"
 	},
 	{
@@ -1555,10 +1552,9 @@
 		"defname": "Bow_Great"
 	},
 	{
-		"abr": "CUR-AR",
+		"abr": "chargerifle",
 		"price": 1683,
 		"category": "Ranged weapons",
-		"description": "Charge Rifle",
 		"defname": "Gun_ChargeRifle"
 	},
 	{

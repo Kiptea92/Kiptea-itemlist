@@ -4879,7 +4879,7 @@
     "Mod": "RimWorld",
     "KarmaType": "Neutral"
   },
-  "Gun_MG-4110B": {
+  "Gun_SniperRifle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
