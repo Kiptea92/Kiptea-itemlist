@@ -1483,7 +1483,7 @@
 		"defname": "Gun_AssaultRifle"
 	},
 	{
-		"abr": "MG-4110B (sniperrifle)",
+		"abr": "MG-4110B",
 		"price": 883,
 		"category": "Ranged weapons",
 		"defname": "Gun_SniperRifle"
