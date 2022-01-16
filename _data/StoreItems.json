@@ -1424,9 +1424,10 @@
 		"defname": "MeleeWeapon_Spear"
 	},
 	{
-		"abr": "revolver",
+		"abr": "R2",
 		"price": 226,
 		"category": "Ranged weapons",
+		"description": "Revolver";
 		"defname": "Gun_Revolver"
 	},
 	{
@@ -1436,27 +1437,31 @@
 		"defname": "Gun_Autopistol"
 	},
 	{
-		"abr": "machinepistol",
+		"abr": "FLE-17",
 		"price": 367,
 		"category": "Ranged weapons",
+		"description": "Machine-gun Pistol";
 		"defname": "Gun_MachinePistol"
 	},
 	{
-		"abr": "incendiarylauncher",
+		"abr": "IGL-40",
 		"price": 567,
 		"category": "Ranged weapons",
+		"description": "Incendiary launcher";
 		"defname": "Gun_IncendiaryLauncher"
 	},
 	{
-		"abr": "bolt-actionrifle",
+		"abr": "Model 8",
 		"price": 425,
 		"category": "Ranged weapons",
+		"description": "Bolt-Action Rifle";
 		"defname": "Gun_BoltActionRifle"
 	},
 	{
-		"abr": "pumpshotgun",
+		"abr": "XII-G",
 		"price": 425,
 		"category": "Ranged weapons",
+		"description": "Pump Shotgun";
 		"defname": "Gun_PumpShotgun"
 	},
 	{
@@ -1472,9 +1477,10 @@
 		"defname": "Gun_HeavySMG"
 	},
 	{
-		"abr": "lmg",
+		"abr": "lmg-556",
 		"price": 708,
 		"category": "Ranged weapons",
+		"description": "LMG";
 		"defname": "Gun_LMG"
 	},
 	{
