@@ -41,13 +41,13 @@ store:
     # Whether or not the item list will display the mod that added it.
     mod: true
     # Whether or not the item list will display the command a viewer should type for purchasing that item.
-    usage: false
+    usage: true
   events:
     # Whether or not the event list will display the command a viewer should type for purchasing that event.
-    usage: false
+    usage: true
   animals:
     # Whether or not the animal list will display the command a viewer should type for purchasing that animal.
-    usage: false
+    usage: true
 
 commands:
   # Whether or not the command list will display the command's shortcut disclaimer.
