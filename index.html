@@ -15,6 +15,8 @@ title: Store
 "abr" -%}
 {%- assign animalsForDisplay = site.data.StoreItems.items | where: "category", "Animal" | where_exp: "animal",
 "animal.price > 0" | sort: "abr" -%}
+{%- assign animalsForDisplay = site.data.StoreItems.items | where: "description", "Animal" | where_exp: "animal",
+"animal.price > 0" | sort: "abr" -%}
 {%- assign traitsForDisplay = site.data.ShopExt.traits | sort: "name" -%}
 {%- assign kindsForDisplay = site.data.ShopExt.races | where: "enabled", "true" | sort: "name" -%}
 {%- assign displayableTraitCount = 0 -%}
