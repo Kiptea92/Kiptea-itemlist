@@ -183,19 +183,19 @@
 	{
 		"abr": "powerclaw",
 		"price": 642,
-		"category": "Prosthetic",
+		"category": "Bionic",
 		"defname": "PowerClaw"
 	},
 	{
 		"abr": "joywire",
 		"price": 367,
-		"category": "Prosthetic",
+		"category": "Bionic",
 		"defname": "Joywire"
 	},
 	{
 		"abr": "painstopper",
 		"price": 367,
-		"category": "Prosthetic",
+		"category": "Bionic",
 		"defname": "Painstopper"
 	},
 	{
@@ -854,7 +854,7 @@
 	},
 	{
 		"abr": "advancedcomponent",
-		"price": -10,
+		"price": 350,
 		"category": "Manufactured",
 		"defname": "ComponentSpacer"
 	},
@@ -1423,7 +1423,7 @@
 		"defname": "MeleeWeapon_Spear"
 	},
 	{
-		"abr": "revolver",
+		"abr": "R2",
 		"price": 226,
 		"category": "Ranged weapons",
 		"defname": "Gun_Revolver"
@@ -1435,25 +1435,19 @@
 		"defname": "Gun_Autopistol"
 	},
 	{
-		"abr": "machinepistol",
+		"abr": "FLE-17",
 		"price": 367,
 		"category": "Ranged weapons",
 		"defname": "Gun_MachinePistol"
 	},
 	{
-		"abr": "incendiarylauncher",
-		"price": 567,
-		"category": "Ranged weapons",
-		"defname": "Gun_IncendiaryLauncher"
-	},
-	{
-		"abr": "bolt-actionrifle",
+		"abr": "Model-8",
 		"price": 425,
 		"category": "Ranged weapons",
 		"defname": "Gun_BoltActionRifle"
 	},
 	{
-		"abr": "pumpshotgun",
+		"abr": "XII-G",
 		"price": 425,
 		"category": "Ranged weapons",
 		"defname": "Gun_PumpShotgun"
@@ -1471,22 +1465,16 @@
 		"defname": "Gun_HeavySMG"
 	},
 	{
-		"abr": "lmg",
+		"abr": "lmg-556",
 		"price": 708,
 		"category": "Ranged weapons",
 		"defname": "Gun_LMG"
 	},
 	{
-		"abr": "assaultrifle",
+		"abr": "R4",
 		"price": 800,
 		"category": "Ranged weapons",
 		"defname": "Gun_AssaultRifle"
-	},
-	{
-		"abr": "sniperrifle",
-		"price": 883,
-		"category": "Ranged weapons",
-		"defname": "Gun_SniperRifle"
 	},
 	{
 		"abr": "triplerocketlauncher",
@@ -5300,7 +5288,7 @@
 	},
 	{
 		"abr": "powerconduit",
-		"price": 3,
+		"price": -10,
 		"category": "Misc",
 		"defname": "PowerConduit"
 	},
@@ -5312,7 +5300,7 @@
 	},
 	{
 		"abr": "powerswitch",
-		"price": 102,
+		"price": -10,
 		"category": "Misc",
 		"defname": "PowerSwitch"
 	},
@@ -6511,12 +6499,6 @@
 		"defname": "RKGWineRackB"
 	},
 	{
-		"abr": "6r-7",
-		"price": 1075,
-		"category": "Ranged weapons",
-		"defname": "FTN_HVY_RKT"
-	},
-	{
 		"abr": "aaturret",
 		"price": 2458,
 		"category": "Security",
@@ -6613,12 +6595,6 @@
 		"defname": "PH_AutodoorTriple"
 	},
 	{
-		"abr": "awxr",
-		"price": 1867,
-		"category": "Ranged weapons",
-		"defname": "FTN_HVY_AWXR"
-	},
-	{
 		"abr": "ballista",
 		"price": 650,
 		"category": "Misc",
@@ -6685,22 +6661,10 @@
 		"defname": "LavalampB"
 	},
 	{
-		"abr": "bpkp",
-		"price": 875,
-		"category": "Ranged weapons",
-		"defname": "FTN_HVY_BPKP"
-	},
-	{
 		"abr": "breachaxe",
 		"price": 197,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_BreachAxe"
-	},
-	{
-		"abr": "carinapatternbolter",
-		"price": 1033,
-		"category": "Ranged weapons",
-		"defname": "FTN_HVY_Carina"
 	},
 	{
 		"abr": "carnivorefinemeal",
@@ -6767,18 +6731,6 @@
 		"price": 218,
 		"category": "Furniture",
 		"defname": "Chest"
-	},
-	{
-		"abr": "christaamrmk1",
-		"price": 733,
-		"category": "Ranged weapons",
-		"defname": "FTN_HVY_ChristaA"
-	},
-	{
-		"abr": "christaamrmk2",
-		"price": 792,
-		"category": "Ranged weapons",
-		"defname": "FTN_HVY_ChristaB"
 	},
 	{
 		"abr": "cleaningbot",
@@ -6931,12 +6883,6 @@
 		"defname": "VFES_Turret_Flame"
 	},
 	{
-		"abr": "gpzw39",
-		"price": 2142,
-		"category": "Ranged weapons",
-		"defname": "FTN_HVY_MSL"
-	},
-	{
 		"abr": "greenlavalamp",
 		"price": 66,
 		"category": "Furniture",
@@ -6947,12 +6893,6 @@
 		"price": 1833,
 		"category": "Items",
 		"defname": "MechSerumGrower"
-	},
-	{
-		"abr": "gzk-37m60a1",
-		"price": 1292,
-		"category": "Ranged weapons",
-		"defname": "FTN_HVY_PTank"
 	},
 	{
 		"abr": "haulingbot",
@@ -6989,12 +6929,6 @@
 		"price": 97,
 		"category": "Misc",
 		"defname": "WallVent"
-	},
-	{
-		"abr": "kp",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "FTN_HVY_KP"
 	},
 	{
 		"abr": "landmine",
@@ -7039,12 +6973,6 @@
 		"defname": "MassStoragePlatform"
 	},
 	{
-		"abr": "mg191",
-		"price": 908,
-		"category": "Ranged weapons",
-		"defname": "FTN_HVY_MG"
-	},
-	{
 		"abr": "militaryturret",
 		"price": 842,
 		"category": "Security",
@@ -7076,7 +7004,7 @@
 	},
 	{
 		"abr": "powerconduit",
-		"price": 3,
+		"price": -10,
 		"category": "Misc",
 		"defname": "KCSG_PowerConduit"
 	},
@@ -7157,12 +7085,6 @@
 		"price": 3242,
 		"category": "Misc",
 		"defname": "VFES_Turret_TriRocket"
-	},
-	{
-		"abr": "scarlettpatternheavychargesniper",
-		"price": 3058,
-		"category": "Ranged weapons",
-		"defname": "FTN_HVY_Scarlett"
 	},
 	{
 		"abr": "searchlight",
@@ -7280,7 +7202,7 @@
 	},
 	{
 		"abr": "wallpowerswitch",
-		"price": 103,
+		"price": -10,
 		"category": "Power",
 		"defname": "WallPowerSwitch"
 	},
@@ -7295,12 +7217,6 @@
 		"price": 1567,
 		"category": "Recreation",
 		"defname": "WallscreenTelevision"
-	},
-	{
-		"abr": "xm1788e5",
-		"price": 3917,
-		"category": "Ranged weapons",
-		"defname": "FTN_HVY_XM"
 	},
 	{
 		"abr": "xm-mc3",
@@ -7319,7 +7235,2299 @@
 		"price": 942,
 		"category": "Bionic",
 		"defname": "BionicTongue"
-	}
+	},
+	{
+		"abr": "organictea",
+		"price": 50,
+		"category": "Foods",
+		"defname": "CnT_OrganicTea"
+	},
+	{
+		"abr": "anti-armorrocketlauncher",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "Gun_AntiArmor_Rocket"
+	},
+	{
+		"abr": "autoprisondoor",
+		"price": 290,
+		"category": "Misc",
+		"defname": "AutoPrisonDoor"
+	},
+	{
+		"abr": "cake!",
+		"price": 33,
+		"category": "Meals",
+		"defname": "CnT_Cake"
+	},
+	{
+		"abr": "cake?",
+		"price": 108,
+		"category": "Meals",
+		"defname": "CnT_Cake-ish"
+	},
+	{
+		"abr": "herbaltea",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "HerbalTea"
+	},
+	{
+		"abr": "hugewindow",
+		"price": 175,
+		"category": "Misc",
+		"defname": "HugeOpenWindow"
+	},
+	{
+		"abr": "industrialammo",
+		"price": 3,
+		"category": "Ammo",
+		"defname": "yy_ammo_industrial"
+	},
+	{
+		"abr": "industrialexplosiveammo",
+		"price": 3,
+		"category": "Ammo",
+		"defname": "yy_ammo_industrial_fire"
+	},
+	{
+		"abr": "industrialspecialammo",
+		"price": 3,
+		"category": "Ammo",
+		"defname": "yy_ammo_industrial_emp"
+	},
+	{
+		"abr": "largereinforcedwindow",
+		"price": 508,
+		"category": "Misc",
+		"defname": "LargeReinforcedOpenWindow"
+	},
+	{
+		"abr": "largewindow",
+		"price": 105,
+		"category": "Misc",
+		"defname": "LargeOpenWindow"
+	},
+	{
+		"abr": "minecart",
+		"price": 167,
+		"category": "Production",
+		"defname": "Minecart"
+	},
+	{
+		"abr": "primitiveexplosiveammo",
+		"price": 1,
+		"category": "Ammo",
+		"defname": "yy_ammo_primitive_fire"
+	},
+	{
+		"abr": "primitivespecialammo",
+		"price": 1,
+		"category": "Ammo",
+		"defname": "yy_ammo_primitive_emp"
+	},
+	{
+		"abr": "prisonbars",
+		"price": 18,
+		"category": "Misc",
+		"defname": "PrisonBars"
+	},
+	{
+		"abr": "prisondoor",
+		"price": 167,
+		"category": "Misc",
+		"defname": "PrisonDoor"
+	},
+	{
+		"abr": "rail",
+		"price": 11,
+		"category": "Misc",
+		"defname": "ThingRail"
+	},
+	{
+		"abr": "railboost",
+		"price": 71,
+		"category": "Misc",
+		"defname": "RailBoost"
+	},
+	{
+		"abr": "raildump",
+		"price": 67,
+		"category": "Misc",
+		"defname": "RailDump"
+	},
+	{
+		"abr": "railswitch",
+		"price": 51,
+		"category": "Misc",
+		"defname": "RailSwitch"
+	},
+	{
+		"abr": "reinforcedwindow",
+		"price": 171,
+		"category": "Misc",
+		"defname": "ReinforcedOpenWindow"
+	},
+	{
+		"abr": "rusticwindow",
+		"price": 18,
+		"category": "Misc",
+		"defname": "SimpleOpenWindow"
+	},
+	{
+		"abr": "spacerammo",
+		"price": 4,
+		"category": "Ammo",
+		"defname": "yy_ammo_spacer"
+	},
+	{
+		"abr": "spacerexplosiveammo",
+		"price": 4,
+		"category": "Ammo",
+		"defname": "yy_ammo_spacer_fire"
+	},
+	{
+		"abr": "spacerspecialammo",
+		"price": 12,
+		"category": "Ammo",
+		"defname": "yy_ammo_spacer_emp"
+	},
+	{
+		"abr": "tealeaves",
+		"price": 25,
+		"category": "Manufactured",
+		"defname": "CnT_TeaLeaves"
+	},
+	{
+		"abr": "window",
+		"price": 35,
+		"category": "Misc",
+		"defname": "OpenWindow"
+	},
+	{
+		"abr": "yorkshiretea",
+		"price": 50,
+		"category": "Foods",
+		"defname": "CnT_Tea"
+	},
+	{
+		"abr": "(100mm)br-412dap",
+		"price": 104,
+		"category": "100mm shells",
+		"defname": "OneHundredShellAP"
+	},
+	{
+		"abr": "(100mm)oeaf1ap",
+		"price": 52,
+		"category": "100mm shells",
+		"defname": "OneHundredmmShell"
+	},
+	{
+		"abr": "(105mm)dm23apfsds",
+		"price": 89,
+		"category": "105mm shells",
+		"defname": "OneOFiveShellAP"
+	},
+	{
+		"abr": "(106mm)2xm344heat",
+		"price": 171,
+		"category": "106mm shells",
+		"defname": "OneOSixShellHEAT"
+	},
+	{
+		"abr": "(120mm)tak120mmap",
+		"price": 73,
+		"category": "120mm shells",
+		"defname": "TAKShell"
+	},
+	{
+		"abr": "(122mm)of-462he",
+		"price": 56,
+		"category": "122mm shells",
+		"defname": "GvozdikaShell"
+	},
+	{
+		"abr": "(127mm)12.7cmsprgrhe",
+		"price": 79,
+		"category": "127mm shells",
+		"defname": "TwelveSevenShell"
+	},
+	{
+		"abr": "(127mm)mk.64ap",
+		"price": 82,
+		"category": "127mm shells",
+		"defname": "MarkSixtyFour"
+	},
+	{
+		"abr": "(127mm)type1he",
+		"price": 97,
+		"category": "127mm shells",
+		"defname": "JOnetwentysevenShell"
+	},
+	{
+		"abr": "(150mm)15cmsprgrhe",
+		"price": 123,
+		"category": "150mm shells",
+		"defname": "OneHundredFiftyShell"
+	},
+	{
+		"abr": "(150mm)igr33he",
+		"price": 59,
+		"category": "150mm shells",
+		"defname": "SIGShellHE"
+	},
+	{
+		"abr": "(152mm)of-540he",
+		"price": 96,
+		"category": "152mm shells",
+		"defname": "AkatsiyaShell"
+	},
+	{
+		"abr": "(155mm)m795he",
+		"price": 103,
+		"category": "155mm shells",
+		"defname": "OneFiftyFiveShell"
+	},
+	{
+		"abr": "(203mm)20.3cmsprgrhe",
+		"price": 180,
+		"category": "203mm shells",
+		"defname": "TwentyThreeShellHE"
+	},
+	{
+		"abr": "(20mm)20x20mmapimagazine",
+		"price": 95,
+		"category": "20mm shells",
+		"defname": "FlakTwentyMag"
+	},
+	{
+		"abr": "(20mm)hs827ap",
+		"price": 5,
+		"category": "20mm shells",
+		"defname": "RheinmetallTwentyMilShell"
+	},
+	{
+		"abr": "(25mm)pmb090apfsds",
+		"price": 6,
+		"category": "25mm shells",
+		"defname": "SIDAMShell"
+	},
+	{
+		"abr": "(288mm)9.2inchmk.ihe",
+		"price": 188,
+		"category": "288mm shells",
+		"defname": "NinePointTwoInchShellHE"
+	},
+	{
+		"abr": "(30mm)3uof8ap",
+		"price": 8,
+		"category": "30mm shells",
+		"defname": "ShipunovShell"
+	},
+	{
+		"abr": "(30mm)hs831aap",
+		"price": 8,
+		"category": "30mm shells",
+		"defname": "RardenShell"
+	},
+	{
+		"abr": "(30mm)sprgrap",
+		"price": 8,
+		"category": "30mm shells",
+		"defname": "KugelblitzShell"
+	},
+	{
+		"abr": "(37mm)37mmpzgrap",
+		"price": 10,
+		"category": "37mm shells",
+		"defname": "FlakThirtySeven"
+	},
+	{
+		"abr": "(40mm)5x40mmapclip",
+		"price": 44,
+		"category": "40mm shells",
+		"defname": "BoforsClip"
+	},
+	{
+		"abr": "(40mm)m811ap",
+		"price": 12,
+		"category": "40mm shells",
+		"defname": "LongFortyMilShell"
+	},
+	{
+		"abr": "(6pounder)shotmk-8t",
+		"price": 31,
+		"category": "6Pdr (57mm) shells",
+		"defname": "SixPounderShellAP"
+	},
+	{
+		"abr": "(600mm)schwerebetongranatehe",
+		"price": 592,
+		"category": "600mm shells",
+		"defname": "SixHundredMilShell"
+	},
+	{
+		"abr": "(75mm)jgr.18he",
+		"price": 28,
+		"category": "75mm howitzer shells",
+		"defname": "leIGShellHE"
+	},
+	{
+		"abr": "(76mm)oto76mmap",
+		"price": 35,
+		"category": "76mm shells",
+		"defname": "NavalSeventySix"
+	},
+	{
+		"abr": "(90mm)m82apcbc",
+		"price": 67,
+		"category": "90mm shells",
+		"defname": "NinetyShellAP"
+	},
+	{
+		"abr": "100mmbs-3",
+		"price": 1233,
+		"category": "Security",
+		"defname": "Turret_BS3_Cannon"
+	},
+	{
+		"abr": "10cm/55model1953",
+		"price": 8392,
+		"category": "Misc",
+		"defname": "100mmNavalgun"
+	},
+	{
+		"abr": "12.7cm3rdyeartypec",
+		"price": 7683,
+		"category": "Misc",
+		"defname": "Twin127mmNavalgun"
+	},
+	{
+		"abr": "12.7cmskc/34",
+		"price": 5533,
+		"category": "Misc",
+		"defname": "127mmNavalgun"
+	},
+	{
+		"abr": "12.7mmammobox",
+		"price": 50,
+		"category": "12.7mm Ammo Box",
+		"defname": "AAA_12_7mmAmmoBox"
+	},
+	{
+		"abr": "128mmpak44",
+		"price": 1642,
+		"category": "Security",
+		"defname": "Turret_Pak44_Cannon"
+	},
+	{
+		"abr": "128mmpzgr",
+		"price": 196,
+		"category": "128mm shells",
+		"defname": "OneTwentyEightShellAP"
+	},
+	{
+		"abr": "12cm/46tak120",
+		"price": 9933,
+		"category": "Misc",
+		"defname": "120mmNavalgun"
+	},
+	{
+		"abr": "155mmgctauf1",
+		"price": 4433,
+		"category": "Misc",
+		"defname": "Turret_GCT_Howitzer"
+	},
+	{
+		"abr": "15cmsig33",
+		"price": 1925,
+		"category": "Security",
+		"defname": "Turret_15cmSIG"
+	},
+	{
+		"abr": "15cmtbtskc/36",
+		"price": 6767,
+		"category": "Misc",
+		"defname": "Turret_150mmCannon"
+	},
+	{
+		"abr": "15cmtbtskc/36t",
+		"price": 8950,
+		"category": "Misc",
+		"defname": "Turret_KC36T_Navalgun"
+	},
+	{
+		"abr": "20.3cmskc/34",
+		"price": 10642,
+		"category": "Misc",
+		"defname": "Turret_SKC34_Navalgun"
+	},
+	{
+		"abr": "20mmapmagazine",
+		"price": 17,
+		"category": "20mm shells",
+		"defname": "Magazine_20mm_ArmorPiercing"
+	},
+	{
+		"abr": "20mmapmagazine",
+		"price": 17,
+		"category": "20mm shells",
+		"defname": "20mm_Shell_ArmorPiercing"
+	},
+	{
+		"abr": "20mmflak38",
+		"price": 567,
+		"category": "Security",
+		"defname": "Turret_Flak38_Autocannon"
+	},
+	{
+		"abr": "20mmhemagazine",
+		"price": 17,
+		"category": "20mm shells",
+		"defname": "Magazine_20mm_HighExplosive"
+	},
+	{
+		"abr": "20mmhemagazine",
+		"price": 17,
+		"category": "20mm shells",
+		"defname": "20mm_Shell_HighExplosive"
+	},
+	{
+		"abr": "20mmmachineguncrate",
+		"price": 9250,
+		"category": "Ranged weapons",
+		"defname": "AAA_Crate_Oerlikon"
+	},
+	{
+		"abr": "2s1gvozdika",
+		"price": 1958,
+		"category": "Misc",
+		"defname": "Turret_Gvozdika_Howitzer"
+	},
+	{
+		"abr": "2s19msta",
+		"price": 4167,
+		"category": "Misc",
+		"defname": "Turret_Msta_Howitzer"
+	},
+	{
+		"abr": "2s3akatsiya",
+		"price": 2450,
+		"category": "Misc",
+		"defname": "Turret_Akatsiya_Howitzer"
+	},
+	{
+		"abr": "37mmflakm42",
+		"price": 908,
+		"category": "Misc",
+		"defname": "Turret_FlakM42_Autocannon"
+	},
+	{
+		"abr": "40mmdca40",
+		"price": 792,
+		"category": "Misc",
+		"defname": "Turret_Flak28Bofors_Autocannon"
+	},
+	{
+		"abr": "40mmheroundclip",
+		"price": 17,
+		"category": "40mm shells",
+		"defname": "Clip_40mm_HighExplosive"
+	},
+	{
+		"abr": "40mmheroundclip",
+		"price": 17,
+		"category": "40mm shells",
+		"defname": "40mm_Shell_HighExplosive"
+	},
+	{
+		"abr": "40mmincendiaryroundclip",
+		"price": 17,
+		"category": "40mm shells",
+		"defname": "Clip_40mm_Incendiary"
+	},
+	{
+		"abr": "40mmincendiaryroundclip",
+		"price": 17,
+		"category": "40mm shells",
+		"defname": "40mm_Shell_Incendiary"
+	},
+	{
+		"abr": "40mmmachineguncrate",
+		"price": 15083,
+		"category": "Ranged weapons",
+		"defname": "AAA_Crate_Bofors"
+	},
+	{
+		"abr": "5/54(12.7cm)mark16",
+		"price": 6217,
+		"category": "Misc",
+		"defname": "Turret_Mark16_Navalgun"
+	},
+	{
+		"abr": "60cmkarlgeräthowitzer",
+		"price": 6692,
+		"category": "Misc",
+		"defname": "Turret_600Howitzer"
+	},
+	{
+		"abr": "7.62mmammobox",
+		"price": 33,
+		"category": "7.62mm Ammo Box",
+		"defname": "AAA_MachineGunAmmo"
+	},
+	{
+		"abr": "75mmleig18",
+		"price": 1792,
+		"category": "Security",
+		"defname": "Turret_75mmleIG"
+	},
+	{
+		"abr": "75mmpak40",
+		"price": 842,
+		"category": "Security",
+		"defname": "Turret_75mmCannon"
+	},
+	{
+		"abr": "75mmpzgr39",
+		"price": 70,
+		"category": "75mm shells",
+		"defname": "SeventyFiveShellAP"
+	},
+	{
+		"abr": "88mmflak41",
+		"price": 1017,
+		"category": "Security",
+		"defname": "Turret_88mmCannon"
+	},
+	{
+		"abr": "88mmpzgr39",
+		"price": 77,
+		"category": "88mm shells",
+		"defname": "EightyEightShellAP"
+	},
+	{
+		"abr": "aecdeacon",
+		"price": 1125,
+		"category": "Misc",
+		"defname": "Turret_6PdrCannon"
+	},
+	{
+		"abr": "automatedfcscomputer",
+		"price": 333,
+		"category": "AMC Materials",
+		"defname": "FCSComputer"
+	},
+	{
+		"abr": "bl9.2inch(288mm)mk.ihowitzer",
+		"price": 2775,
+		"category": "Misc",
+		"defname": "Turret_288mmHowitzer"
+	},
+	{
+		"abr": "bmp-2",
+		"price": 1650,
+		"category": "Misc",
+		"defname": "Turret_Shipunov_Autocannon"
+	},
+	{
+		"abr": "bofors40mm",
+		"price": 16392,
+		"category": "Security",
+		"defname": "Turret_40mmGun"
+	},
+	{
+		"abr": "cncmachine",
+		"price": 2025,
+		"category": "Production",
+		"defname": "CNCmachine"
+	},
+	{
+		"abr": "cncmodule",
+		"price": 1883,
+		"category": "Misc",
+		"defname": "CNCmodule"
+	},
+	{
+		"abr": "compositeadvancedhelmet",
+		"price": 1125,
+		"category": "Headgear",
+		"defname": "Apparel_CompositeAdvancedHelmet"
+	},
+	{
+		"abr": "compositealloy",
+		"price": 83,
+		"category": "Raw resources",
+		"defname": "CompositeAlloy"
+	},
+	{
+		"abr": "compositeflakjacket",
+		"price": 5292,
+		"category": "Apparel",
+		"defname": "Apparel_CompositeFlakJacket"
+	},
+	{
+		"abr": "compositeflakpants",
+		"price": 4383,
+		"category": "Apparel",
+		"defname": "Apparel_CompositeFlakPants"
+	},
+	{
+		"abr": "compositeflakvest",
+		"price": 3550,
+		"category": "Apparel",
+		"defname": "Apparel_CompositeFlakVest"
+	},
+	{
+		"abr": "compositemarinearmor",
+		"price": 10225,
+		"category": "Armor",
+		"defname": "Apparel_CompositePowerArmor"
+	},
+	{
+		"abr": "compositemarinehelmet",
+		"price": 3108,
+		"category": "Headgear",
+		"defname": "Apparel_CompositePowerArmorHelmet"
+	},
+	{
+		"abr": "c-ramturret",
+		"price": 3725,
+		"category": "Security",
+		"defname": "CIWS_Turret"
+	},
+	{
+		"abr": "dualbofors40mm",
+		"price": 31475,
+		"category": "Security",
+		"defname": "AAA_Turret_Dual40mmGun"
+	},
+	{
+		"abr": "dualm2browning",
+		"price": 13858,
+		"category": "Security",
+		"defname": "Turret_DualM2MG"
+	},
+	{
+		"abr": "dualoerlikon20mmgun",
+		"price": 19017,
+		"category": "Security",
+		"defname": "Turret_Dual20mmGun"
+	},
+	{
+		"abr": "flakpzivkugelblitz",
+		"price": 1967,
+		"category": "Misc",
+		"defname": "Turret_Kugelblitz_Autocannon"
+	},
+	{
+		"abr": "fv510warrior",
+		"price": 1433,
+		"category": "Misc",
+		"defname": "Turret_RARDEN_Autocannon"
+	},
+	{
+		"abr": "gau17",
+		"price": 1375,
+		"category": "Security",
+		"defname": "Turret_GAU17gatling"
+	},
+	{
+		"abr": "gau19",
+		"price": 1683,
+		"category": "Security",
+		"defname": "Turret_GAU19gatling"
+	},
+	{
+		"abr": "leopard1a5turret",
+		"price": 3150,
+		"category": "Misc",
+		"defname": "Turret_Leo1A5_Cannon"
+	},
+	{
+		"abr": "m2browningmachinegun",
+		"price": 6950,
+		"category": "Security",
+		"defname": "Turret_M2MG"
+	},
+	{
+		"abr": "m2machineguncrate",
+		"price": 6750,
+		"category": "Ranged weapons",
+		"defname": "AAA_Crate_M2_Browning"
+	},
+	{
+		"abr": "m247",
+		"price": 3500,
+		"category": "Misc",
+		"defname": "Turret_M247_Autocannon"
+	},
+	{
+		"abr": "m26pershingturret",
+		"price": 2108,
+		"category": "Misc",
+		"defname": "Turret_M26_Cannon"
+	},
+	{
+		"abr": "m40recoillessrifle",
+		"price": 1067,
+		"category": "Misc",
+		"defname": "Turret_M40_Cannon"
+	},
+	{
+		"abr": "m45meetchopper",
+		"price": 28125,
+		"category": "Security",
+		"defname": "Turret_QuadM2MG"
+	},
+	{
+		"abr": "maximmachinegun",
+		"price": 3625,
+		"category": "Security",
+		"defname": "Turret_Maxim"
+	},
+	{
+		"abr": "maximmachineguncrate",
+		"price": 3417,
+		"category": "Ranged weapons",
+		"defname": "AAA_Crate_Maxim"
+	},
+	{
+		"abr": "oerlikon20mmgun",
+		"price": 9433,
+		"category": "Security",
+		"defname": "Turret_single20mmGun"
+	},
+	{
+		"abr": "otomelara76/62c",
+		"price": 10617,
+		"category": "Misc",
+		"defname": "Turret_Otomelara76_Navalgun"
+	},
+	{
+		"abr": "otobreda127/54compact",
+		"price": 8017,
+		"category": "Misc",
+		"defname": "Turret_Otobreda127_Navalgun"
+	},
+	{
+		"abr": "quadbofors40mm",
+		"price": 62292,
+		"category": "Security",
+		"defname": "AAA_Turret_Quad40mmGun"
+	},
+	{
+		"abr": "quadmaxim",
+		"price": 13908,
+		"category": "Security",
+		"defname": "Turret_QuadMaxim"
+	},
+	{
+		"abr": "quadoerlikon20mmgun",
+		"price": 39033,
+		"category": "Security",
+		"defname": "Turret_Quad20mmGun"
+	},
+	{
+		"abr": "sidam25",
+		"price": 3558,
+		"category": "Misc",
+		"defname": "Turret_SIDAM_Autocannon"
+	},
+	{
+		"abr": "spzmarder",
+		"price": 1642,
+		"category": "Misc",
+		"defname": "Turret_RH202_Autocannon"
+	},
+	{
+		"abr": "t-54turret",
+		"price": 2383,
+		"category": "Misc",
+		"defname": "Turret_T54_Cannon"
+	},
+	{
+		"abr": "unmanned20mmflak38",
+		"price": 1125,
+		"category": "Security",
+		"defname": "UTurret_Flak38_Autocannon"
+	},
+	{
+		"abr": "unmannedaecdaecon",
+		"price": 1900,
+		"category": "Misc",
+		"defname": "Turret_U6PdrCannon"
+	},
+	{
+		"abr": "abyssalpearl",
+		"price": 1333,
+		"category": "Manufactured",
+		"defname": "Moyo_AbyssPearl"
+	},
+	{
+		"abr": "abysstechhealermechserum",
+		"price": 4167,
+		"category": "Items",
+		"defname": "Moyo_HealerSerum"
+	},
+	{
+		"abr": "abysstechheart",
+		"price": 3708,
+		"category": "Bionic",
+		"defname": "Moyo_AdvancedHeart"
+	},
+	{
+		"abr": "abysstechneurotrainerserum(combat)",
+		"price": 4167,
+		"category": "Abysstech neurotrainer",
+		"defname": "Moyo_neuroSerum_combat"
+	},
+	{
+		"abr": "abysstechneurotrainerserum(craftsmanship)",
+		"price": 4167,
+		"category": "Abysstech neurotrainer",
+		"defname": "Moyo_neuroSerum_craftsmanship"
+	},
+	{
+		"abr": "abysstechneurotrainerserum(housekeeping)",
+		"price": 4167,
+		"category": "Abysstech neurotrainer",
+		"defname": "Moyo_neuroSerum_housekeeping"
+	},
+	{
+		"abr": "abysstechneurotrainerserum(labor)",
+		"price": 4167,
+		"category": "Abysstech neurotrainer",
+		"defname": "Moyo_neuroSerum_labor"
+	},
+	{
+		"abr": "abysstechpersonaadvisermodule",
+		"price": 10567,
+		"category": "Misc",
+		"defname": "MoyoGRModule"
+	},
+	{
+		"abr": "abyssteel",
+		"price": 17,
+		"category": "Raw resources",
+		"defname": "Moyo_Abyssteel"
+	},
+	{
+		"abr": "agavenectar",
+		"price": 2,
+		"category": "Condiments",
+		"defname": "VCE_AgaveNectar"
+	},
+	{
+		"abr": "beecheese",
+		"price": 17,
+		"category": "Meals",
+		"defname": "VCE_BeeCheese"
+	},
+	{
+		"abr": "belial-v",
+		"price": 833,
+		"category": "Drugs",
+		"defname": "Moyo_BelialV"
+	},
+	{
+		"abr": "bionicmoyotail",
+		"price": 1583,
+		"category": "Bionic",
+		"defname": "Moyo_BionicTail"
+	},
+	{
+		"abr": "bluehaze",
+		"price": 75,
+		"category": "Drugs",
+		"defname": "BlueYo"
+	},
+	{
+		"abr": "blueburst",
+		"price": 120,
+		"category": "Drugs",
+		"defname": "BlueBurst"
+	},
+	{
+		"abr": "bluemed",
+		"price": 70,
+		"category": "Medicine",
+		"defname": "MoyoMedicine"
+	},
+	{
+		"abr": "cannedeggs",
+		"price": 6,
+		"category": "Meals",
+		"defname": "VCE_CannedAP"
+	},
+	{
+		"abr": "cannedfish",
+		"price": 3,
+		"category": "Meals",
+		"defname": "VCE_CannedFish"
+	},
+	{
+		"abr": "cannedfruit",
+		"price": 2,
+		"category": "Meals",
+		"defname": "VCE_CannedFruit"
+	},
+	{
+		"abr": "cannedmeat",
+		"price": 4,
+		"category": "Meals",
+		"defname": "VCE_CannedMeat"
+	},
+	{
+		"abr": "cannedproduce",
+		"price": 2,
+		"category": "Meals",
+		"defname": "VCE_CannedProduce"
+	},
+	{
+		"abr": "canningmachine",
+		"price": 383,
+		"category": "Production",
+		"defname": "VCE_CanningMachine"
+	},
+	{
+		"abr": "cheese",
+		"price": 17,
+		"category": "Meals",
+		"defname": "VCE_Cheese"
+	},
+	{
+		"abr": "cheesepress",
+		"price": 95,
+		"category": "Production",
+		"defname": "VCE_CheesePress"
+	},
+	{
+		"abr": "chefmaidcostume",
+		"price": 4667,
+		"category": "Maid Project",
+		"defname": "ChefMaid"
+	},
+	{
+		"abr": "chocolatesyrup",
+		"price": 6,
+		"category": "Condiments",
+		"defname": "VCE_ChocolateSyrup"
+	},
+	{
+		"abr": "cleanermaidcostume",
+		"price": 4667,
+		"category": "Maid Project",
+		"defname": "CleanerMaid"
+	},
+	{
+		"abr": "clens-azure",
+		"price": 117,
+		"category": "Drugs",
+		"defname": "Clensazure"
+	},
+	{
+		"abr": "condimentpreptable",
+		"price": 259,
+		"category": "Production",
+		"defname": "VCE_CondimentPrepTable"
+	},
+	{
+		"abr": "craftermaidcostume",
+		"price": 4667,
+		"category": "Maid Project",
+		"defname": "CrafterMaid"
+	},
+	{
+		"abr": "deepfriedfish",
+		"price": 12,
+		"category": "Meals",
+		"defname": "VCE_DeepFriedFish"
+	},
+	{
+		"abr": "deepfriedmeat",
+		"price": 12,
+		"category": "Meals",
+		"defname": "VCE_DeepFriedBigMeat"
+	},
+	{
+		"abr": "deepfriedvegetables",
+		"price": 12,
+		"category": "Meals",
+		"defname": "VCE_DeepFriedVegetables"
+	},
+	{
+		"abr": "deepfryer",
+		"price": 323,
+		"category": "Production",
+		"defname": "VCE_DeepFrier"
+	},
+	{
+		"abr": "deepblueserum",
+		"price": 53,
+		"category": "Drugs",
+		"defname": "AbyssSerum"
+	},
+	{
+		"abr": "deepbluestation",
+		"price": 2500,
+		"category": "Production",
+		"defname": "Moyo_DBS"
+	},
+	{
+		"abr": "depthweave",
+		"price": 7,
+		"category": "Textiles",
+		"defname": "Moyo_Depthweave"
+	},
+	{
+		"abr": "detoxer-cobalt",
+		"price": 117,
+		"category": "Drugs",
+		"defname": "DetoxerCobalt"
+	},
+	{
+		"abr": "digestibleresurrectornanites",
+		"price": 2500,
+		"category": "Condiments",
+		"defname": "VCE_DigestibleResurrectorNanites"
+	},
+	{
+		"abr": "electricmill",
+		"price": 600,
+		"category": "Production",
+		"defname": "COMIGO_ElectricMill"
+	},
+	{
+		"abr": "electricpot",
+		"price": 216,
+		"category": "Production",
+		"defname": "VCE_ElectricPot"
+	},
+	{
+		"abr": "fakemoyotail",
+		"price": 240,
+		"category": "Prosthetic",
+		"defname": "Moyo_FakeTail"
+	},
+	{
+		"abr": "fightmaidcostume",
+		"price": 9167,
+		"category": "Maid Project",
+		"defname": "FightMaid"
+	},
+	{
+		"abr": "finebake",
+		"price": 33,
+		"category": "Meals",
+		"defname": "VCE_FineBake"
+	},
+	{
+		"abr": "finedessert",
+		"price": 33,
+		"category": "Meals",
+		"defname": "VCE_FineDessert"
+	},
+	{
+		"abr": "finegrill",
+		"price": 33,
+		"category": "Meals",
+		"defname": "VCE_FineGrill"
+	},
+	{
+		"abr": "finesoup",
+		"price": 33,
+		"category": "Meals",
+		"defname": "VCE_CookedSoupFine"
+	},
+	{
+		"abr": "flour",
+		"price": 3,
+		"category": "Plant matter",
+		"defname": "VCE_Flour"
+	},
+	{
+		"abr": "gourmetbake",
+		"price": 117,
+		"category": "Meals",
+		"defname": "VCE_GourmetBake"
+	},
+	{
+		"abr": "gourmetdessert",
+		"price": 125,
+		"category": "Meals",
+		"defname": "VCE_GourmetDessert"
+	},
+	{
+		"abr": "gourmetgrill",
+		"price": 125,
+		"category": "Meals",
+		"defname": "VCE_GourmetGrill"
+	},
+	{
+		"abr": "gourmetmeal",
+		"price": 117,
+		"category": "Meals",
+		"defname": "VCE_MealGourmet"
+	},
+	{
+		"abr": "gourmetsoup",
+		"price": 117,
+		"category": "Meals",
+		"defname": "VCE_CookedSoupGourmet"
+	},
+	{
+		"abr": "grandabyssalpearlsculpture",
+		"price": 65967,
+		"category": "Art",
+		"defname": "PearlSculptureGrand"
+	},
+	{
+		"abr": "grill",
+		"price": 282,
+		"category": "Production",
+		"defname": "VCE_Grill"
+	},
+	{
+		"abr": "headermaidcostume",
+		"price": 5833,
+		"category": "Maid Project",
+		"defname": "HeaderMaid"
+	},
+	{
+		"abr": "hotspring",
+		"price": 1775,
+		"category": "Misc",
+		"defname": "StandaloneHotSpring"
+	},
+	{
+		"abr": "insectjellypreserves",
+		"price": 15,
+		"category": "Condiments",
+		"defname": "VCE_InsectJellyPreserves"
+	},
+	{
+		"abr": "largeabyssalpearlsculpture",
+		"price": 16517,
+		"category": "Art",
+		"defname": "PearlSculptureLarge"
+	},
+	{
+		"abr": "lavishbake",
+		"price": 67,
+		"category": "Meals",
+		"defname": "VCE_LavishBake"
+	},
+	{
+		"abr": "lavishdessert",
+		"price": 67,
+		"category": "Meals",
+		"defname": "VCE_LavishDessert"
+	},
+	{
+		"abr": "lavishgrill",
+		"price": 67,
+		"category": "Meals",
+		"defname": "VCE_LavishGrill"
+	},
+	{
+		"abr": "lavishsoup",
+		"price": 67,
+		"category": "Meals",
+		"defname": "VCE_CookedSoupLavish"
+	},
+	{
+		"abr": "maidcostumecraftingworktable",
+		"price": 1608,
+		"category": "Production",
+		"defname": "MaidCostumeCraftingTable"
+	},
+	{
+		"abr": "maidhata",
+		"price": 2333,
+		"category": "Maid Project",
+		"defname": "MaidHatNA"
+	},
+	{
+		"abr": "maidhatb",
+		"price": 3833,
+		"category": "Maid Project",
+		"defname": "MaidHatNB"
+	},
+	{
+		"abr": "maidhatc",
+		"price": 2333,
+		"category": "Maid Project",
+		"defname": "MaidHatNC"
+	},
+	{
+		"abr": "mayo",
+		"price": 6,
+		"category": "Condiments",
+		"defname": "VCE_Mayo"
+	},
+	{
+		"abr": "monstergirlcheese",
+		"price": 17,
+		"category": "Meals",
+		"defname": "VCE_MonsterGirlCheese"
+	},
+	{
+		"abr": "morphi-blue",
+		"price": 120,
+		"category": "Drugs",
+		"defname": "BlueGo"
+	},
+	{
+		"abr": "moyo",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Alien_Moyo"
+	},
+	{
+		"abr": "moyoautocannon",
+		"price": 2900,
+		"category": "Moyo ranged weapons",
+		"defname": "Moyo_AutoCannon"
+	},
+	{
+		"abr": "moyobalista",
+		"price": 2783,
+		"category": "Moyo ranged weapons",
+		"defname": "Moyo_BoltCaster"
+	},
+	{
+		"abr": "moyobattleaxe",
+		"price": 2025,
+		"category": "Moyo ranged weapons",
+		"defname": "Moyo_Spear"
+	},
+	{
+		"abr": "moyobloodbag",
+		"price": 33,
+		"category": "Manufactured",
+		"defname": "Moyo_BloodBag"
+	},
+	{
+		"abr": "moyobodysuit",
+		"price": 542,
+		"category": "Moyo Apparel",
+		"defname": "Moyo_Bodysuit"
+	},
+	{
+		"abr": "moyobodywrappings",
+		"price": 211,
+		"category": "Moyo Apparel",
+		"defname": "Moyo_Tribal"
+	},
+	{
+		"abr": "moyobowlerhat",
+		"price": 77,
+		"category": "Moyo Headgear",
+		"defname": "Moyo_BowlerHat"
+	},
+	{
+		"abr": "moyochargerifle",
+		"price": 1883,
+		"category": "Moyo ranged weapons",
+		"defname": "Moyo_ChargeRifle"
+	},
+	{
+		"abr": "moyochargesmg",
+		"price": 1500,
+		"category": "Moyo ranged weapons",
+		"defname": "Moyo_ChargeSMG"
+	},
+	{
+		"abr": "moyocompositebodysuit",
+		"price": 1042,
+		"category": "Moyo Apparel",
+		"defname": "Moyo_Evasuit"
+	},
+	{
+		"abr": "moyocowboyhat",
+		"price": 94,
+		"category": "Moyo Headgear",
+		"defname": "Moyo_CowboyHat"
+	},
+	{
+		"abr": "moyocryoblaster",
+		"price": 2783,
+		"category": "Moyo ranged weapons",
+		"defname": "Moyo_CryoBlaster"
+	},
+	{
+		"abr": "moyodeepdivinggear",
+		"price": 3750,
+		"category": "Moyo Apparel",
+		"defname": "Moyo_DDgear"
+	},
+	{
+		"abr": "moyodeepdivinghelmet",
+		"price": 1267,
+		"category": "Moyo Headgear",
+		"defname": "Moyo_DDhelmet"
+	},
+	{
+		"abr": "moyodivinggear",
+		"price": 2900,
+		"category": "Moyo Apparel",
+		"defname": "Moyo_LDgear"
+	},
+	{
+		"abr": "moyodivinghelmet",
+		"price": 950,
+		"category": "Moyo Headgear",
+		"defname": "Moyo_LDhelmet"
+	},
+	{
+		"abr": "moyodivingknife",
+		"price": 475,
+		"category": "Moyo melee weapons",
+		"defname": "Moyo_Knife"
+	},
+	{
+		"abr": "moyoduster",
+		"price": 327,
+		"category": "Moyo Apparel",
+		"defname": "Moyo_Duster"
+	},
+	{
+		"abr": "moyoengineeringgear",
+		"price": 617,
+		"category": "Moyo Apparel",
+		"defname": "Moyo_EGsuit"
+	},
+	{
+		"abr": "moyoexoticblackdress",
+		"price": 1417,
+		"category": "Moyo Apparel",
+		"defname": "Moyo_RoyalBlackDress"
+	},
+	{
+		"abr": "moyoheart",
+		"price": 1083,
+		"category": "Natural",
+		"defname": "Moyo_Heart"
+	},
+	{
+		"abr": "moyojacket",
+		"price": 275,
+		"category": "Moyo Apparel",
+		"defname": "Moyo_Jacket"
+	},
+	{
+		"abr": "moyomeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_Alien_Moyo"
+	},
+	{
+		"abr": "moyominiholoprojectora",
+		"price": 425,
+		"category": "Moyo Headgear",
+		"defname": "Moyo_RoyalHologramA"
+	},
+	{
+		"abr": "moyominiholoprojectorb",
+		"price": 425,
+		"category": "Moyo Headgear",
+		"defname": "Moyo_RoyalHologramB"
+	},
+	{
+		"abr": "moyominiholoprojectorc",
+		"price": 425,
+		"category": "Moyo Headgear",
+		"defname": "Moyo_RoyalHologramC"
+	},
+	{
+		"abr": "moyonailgun",
+		"price": 600,
+		"category": "Moyo ranged weapons",
+		"defname": "Moyo_Pistol"
+	},
+	{
+		"abr": "moyoparka",
+		"price": 315,
+		"category": "Moyo Apparel",
+		"defname": "Moyo_Parka"
+	},
+	{
+		"abr": "moyopiledriver",
+		"price": 717,
+		"category": "Moyo melee weapons",
+		"defname": "Moyo_Piledriver"
+	},
+	{
+		"abr": "moyopowerfist",
+		"price": 1750,
+		"category": "Moyo melee weapons",
+		"defname": "Moyo_PowerFist"
+	},
+	{
+		"abr": "moyoprecisionrifle",
+		"price": 1800,
+		"category": "Moyo ranged weapons",
+		"defname": "Moyo_PrecisionRifle"
+	},
+	{
+		"abr": "moyoroyalautocannon",
+		"price": 3717,
+		"category": "Moyo ranged weapons",
+		"defname": "Moyo_HeavyAutoCannon"
+	},
+	{
+		"abr": "moyoroyalbalista",
+		"price": 3717,
+		"category": "Moyo ranged weapons",
+		"defname": "Moyo_HeavyBoltCaster"
+	},
+	{
+		"abr": "moyoroyalbattleaxe",
+		"price": 2867,
+		"category": "Moyo ranged weapons",
+		"defname": "Moyo_GDSpear"
+	},
+	{
+		"abr": "moyoroyalchargerifle",
+		"price": 2683,
+		"category": "Moyo ranged weapons",
+		"defname": "Moyo_HeavyChargeRifle"
+	},
+	{
+		"abr": "moyoroyalpowerfist",
+		"price": 2867,
+		"category": "Moyo melee weapons",
+		"defname": "Moyo_GDPowerFist"
+	},
+	{
+		"abr": "moyoroyalguardarmor",
+		"price": 5058,
+		"category": "Moyo Apparel",
+		"defname": "Moyo_GDsuit"
+	},
+	{
+		"abr": "moyoroyalguardhelmet",
+		"price": 2008,
+		"category": "Moyo Headgear",
+		"defname": "Moyo_GDhelmet"
+	},
+	{
+		"abr": "moyoroyalguardlightarmor",
+		"price": 4142,
+		"category": "Moyo Apparel",
+		"defname": "Moyo_GSsuit"
+	},
+	{
+		"abr": "moyoroyalguardlighthelmet",
+		"price": 1633,
+		"category": "Moyo Headgear",
+		"defname": "Moyo_GShelmet"
+	},
+	{
+		"abr": "moyoroyalrobea",
+		"price": 1475,
+		"category": "Moyo Apparel",
+		"defname": "Moyo_RoyalRobeA"
+	},
+	{
+		"abr": "moyoroyalrobeb",
+		"price": 1475,
+		"category": "Moyo Apparel",
+		"defname": "Moyo_RoyalRobeB"
+	},
+	{
+		"abr": "moyoroyalrobec",
+		"price": 1475,
+		"category": "Moyo Apparel",
+		"defname": "Moyo_RoyalRobeC"
+	},
+	{
+		"abr": "moyoroyalsuit",
+		"price": 1583,
+		"category": "Moyo Apparel",
+		"defname": "Moyo_Royalsuit"
+	},
+	{
+		"abr": "moyoshirtandboots",
+		"price": 342,
+		"category": "Moyo Apparel",
+		"defname": "Moyo_SnB"
+	},
+	{
+		"abr": "moyotuque",
+		"price": 91,
+		"category": "Moyo Headgear",
+		"defname": "Moyo_Tuque"
+	},
+	{
+		"abr": "moyoweldingmask",
+		"price": 281,
+		"category": "Moyo Headgear",
+		"defname": "Moyo_EGmask"
+	},
+	{
+		"abr": "moyowrench",
+		"price": 251,
+		"category": "Moyo melee weapons",
+		"defname": "Moyo_Wrench"
+	},
+	{
+		"abr": "netgun",
+		"price": 250,
+		"category": "Ranged weapons",
+		"defname": "Gun_Net"
+	},
+	{
+		"abr": "nursemaidcostume",
+		"price": 6333,
+		"category": "Maid Project",
+		"defname": "NurseMaid"
+	},
+	{
+		"abr": "nutritionpack",
+		"price": 25,
+		"category": "Manufactured",
+		"defname": "Moyo_DBSF"
+	},
+	{
+		"abr": "penoxy-blue",
+		"price": 117,
+		"category": "Drugs",
+		"defname": "PenoxyBlue"
+	},
+	{
+		"abr": "primitivecrushingspot",
+		"price": 137,
+		"category": "Production",
+		"defname": "COMIGO_PrimitiveCrushingSpot"
+	},
+	{
+		"abr": "quernstone",
+		"price": 202,
+		"category": "Production",
+		"defname": "COMIGO_Quernstone"
+	},
+	{
+		"abr": "regene-blue",
+		"price": 167,
+		"category": "Drugs",
+		"defname": "BlueMed"
+	},
+	{
+		"abr": "ruinedfinegrill",
+		"price": 30,
+		"category": "Meals",
+		"defname": "VCE_RuinedFineGrill"
+	},
+	{
+		"abr": "ruinedgourmetgrill",
+		"price": 100,
+		"category": "Meals",
+		"defname": "VCE_RuinedGourmetGrill"
+	},
+	{
+		"abr": "ruinedlavishgrill",
+		"price": 58,
+		"category": "Meals",
+		"defname": "VCE_RuinedLavishGrill"
+	},
+	{
+		"abr": "ruinedsimplegrill",
+		"price": 23,
+		"category": "Meals",
+		"defname": "VCE_RuinedSimpleGrill"
+	},
+	{
+		"abr": "salt",
+		"price": 3,
+		"category": "Condiments",
+		"defname": "VCE_Salt"
+	},
+	{
+		"abr": "sapphiremeth",
+		"price": 58,
+		"category": "Drugs",
+		"defname": "BlueUp"
+	},
+	{
+		"abr": "simplebake",
+		"price": 25,
+		"category": "Meals",
+		"defname": "VCE_SimpleBake"
+	},
+	{
+		"abr": "simpledessert",
+		"price": 25,
+		"category": "Meals",
+		"defname": "VCE_SimpleDessert"
+	},
+	{
+		"abr": "simplegrill",
+		"price": 25,
+		"category": "Meals",
+		"defname": "VCE_SimpleGrill"
+	},
+	{
+		"abr": "simplesoup",
+		"price": 20,
+		"category": "Meals",
+		"defname": "VCE_CookedSoupSimple"
+	},
+	{
+		"abr": "slotmachine",
+		"price": 1258,
+		"category": "Recreation",
+		"defname": "SlotMachine"
+	},
+	{
+		"abr": "smallabyssalpearlsculpture",
+		"price": 8275,
+		"category": "Art",
+		"defname": "PearlSculptureSmall"
+	},
+	{
+		"abr": "smokeleafbutter",
+		"price": 12,
+		"category": "Condiments",
+		"defname": "VCE_SmokeleafButter"
+	},
+	{
+		"abr": "spices",
+		"price": 11,
+		"category": "Condiments",
+		"defname": "VCE_RawSpices"
+	},
+	{
+		"abr": "spicydrone",
+		"price": -10,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Spicy_Drone"
+	},
+	{
+		"abr": "spicyhoneycomb",
+		"price": -10,
+		"category": "Honey combs",
+		"defname": "RB_Spicy_Honeycomb"
+	},
+	{
+		"abr": "spicyqueen",
+		"price": -10,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Spicy_Queen"
+	},
+	{
+		"abr": "sugar",
+		"price": 20,
+		"category": "Condiments",
+		"defname": "VCE_RawSugar"
+	},
+	{
+		"abr": "sugarcane",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "COMIGO_Sugarcane"
+	},
+	{
+		"abr": "sugarcanejuice",
+		"price": 1,
+		"category": "Foods",
+		"defname": "COMIGO_SugarcaneJuice"
+	},
+	{
+		"abr": "sustainer-lapis",
+		"price": 117,
+		"category": "Drugs",
+		"defname": "SustainerLapis"
+	},
+	{
+		"abr": "table(round)",
+		"price": 176,
+		"category": "Furniture",
+		"defname": "sd_roundtable"
+	},
+	{
+		"abr": "tablebig(round)",
+		"price": 350,
+		"category": "Furniture",
+		"defname": "sd_roundtable_big"
+	},
+	{
+		"abr": "tablesmall(round)",
+		"price": 106,
+		"category": "Furniture",
+		"defname": "sd_roundtable_small"
+	},
+	{
+		"abr": "uncookedfinesoup",
+		"price": 227,
+		"category": "Uncooked soups",
+		"defname": "VCE_UncookedSoupFine"
+	},
+	{
+		"abr": "uncookedgourmetsoup",
+		"price": 742,
+		"category": "Uncooked soups",
+		"defname": "VCE_UncookedSoupGourmet"
+	},
+	{
+		"abr": "uncookedlavishsoup",
+		"price": 458,
+		"category": "Uncooked soups",
+		"defname": "VCE_UncookedSoupLavish"
+	},
+	{
+		"abr": "uncookedsimplesoup",
+		"price": 161,
+		"category": "Uncooked soups",
+		"defname": "VCE_UncookedSoupSimple"
+	},
+	{
+		"abr": "wheatgrains",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "COMIGO_WheatGrain"
+	},
+	{
+		"abr": "adrenalineribreplacement",
+		"price": 917,
+		"category": "Bionic",
+		"defname": "AdrenalineRib"
+	},
+	{
+		"abr": "advancedbionicarm",
+		"price": 3450,
+		"category": "Ultratech",
+		"defname": "AdvancedBionicArm"
+	},
+	{
+		"abr": "advancedbionicear",
+		"price": 2075,
+		"category": "Ultratech",
+		"defname": "AdvancedBionicEar"
+	},
+	{
+		"abr": "advancedbioniceye",
+		"price": 2150,
+		"category": "Ultratech",
+		"defname": "AdvancedBionicEye"
+	},
+	{
+		"abr": "advancedbionicfoot",
+		"price": 2042,
+		"category": "Ultratech",
+		"defname": "AdvancedBionicFoot"
+	},
+	{
+		"abr": "advancedbionichand",
+		"price": 2042,
+		"category": "Ultratech",
+		"defname": "AdvancedBionicHand"
+	},
+	{
+		"abr": "advancedbionicjaw",
+		"price": 1967,
+		"category": "Ultratech",
+		"defname": "AdvancedBionicJaw"
+	},
+	{
+		"abr": "advancedbionicleg",
+		"price": 3450,
+		"category": "Ultratech",
+		"defname": "AdvancedBionicLeg"
+	},
+	{
+		"abr": "advancedbionicspine",
+		"price": 2733,
+		"category": "Ultratech",
+		"defname": "AdvancedBionicSpine"
+	},
+	{
+		"abr": "advancedpowerarm",
+		"price": 5175,
+		"category": "Ultratech",
+		"defname": "AdvancedPowerArm"
+	},
+	{
+		"abr": "advancedpowerclaw",
+		"price": 2217,
+		"category": "Ultratech",
+		"defname": "AdvancedPowerClaw"
+	},
+	{
+		"abr": "aichip",
+		"price": 2133,
+		"category": "Bionic",
+		"defname": "AIChip"
+	},
+	{
+		"abr": "artificialclavicle",
+		"price": 141,
+		"category": "Prosthetic",
+		"defname": "ArtificialClavicle"
+	},
+	{
+		"abr": "artificialnose",
+		"price": 330,
+		"category": "Prosthetic",
+		"defname": "ArtificialNose"
+	},
+	{
+		"abr": "artificialpelvis",
+		"price": 475,
+		"category": "Prosthetic",
+		"defname": "ArtificialPelvis"
+	},
+	{
+		"abr": "artillerygun",
+		"price": 1325,
+		"category": "Security",
+		"defname": "Turret_ArtilleryGun"
+	},
+	{
+		"abr": "auxiliaryai(agricultural)",
+		"price": 5833,
+		"category": "Archotech",
+		"defname": "FarmerCore"
+	},
+	{
+		"abr": "auxiliaryai(constructing)",
+		"price": 5833,
+		"category": "Archotech",
+		"defname": "ConstructorCore"
+	},
+	{
+		"abr": "auxiliaryai(diplomatic)",
+		"price": 5833,
+		"category": "Archotech",
+		"defname": "DiplomatCore"
+	},
+	{
+		"abr": "auxiliaryai(medical)",
+		"price": 5833,
+		"category": "Archotech",
+		"defname": "DoctorCore"
+	},
+	{
+		"abr": "auxiliaryai(mining)",
+		"price": 5833,
+		"category": "Archotech",
+		"defname": "MinerCore"
+	},
+	{
+		"abr": "bionicfoot",
+		"price": 983,
+		"category": "Bionic",
+		"defname": "BionicFoot"
+	},
+	{
+		"abr": "bionichand",
+		"price": 983,
+		"category": "Bionic",
+		"defname": "BionicHand"
+	},
+	{
+		"abr": "bionicjaw",
+		"price": 908,
+		"category": "Bionic",
+		"defname": "BionicJaw"
+	},
+	{
+		"abr": "brainstimulator",
+		"price": 1333,
+		"category": "Prosthetic",
+		"defname": "BrainStimulator"
+	},
+	{
+		"abr": "denture",
+		"price": 65,
+		"category": "Simple parts",
+		"defname": "denture"
+	},
+	{
+		"abr": "druggedribreplacement",
+		"price": 800,
+		"category": "Bionic",
+		"defname": "DruggedRib"
+	},
+	{
+		"abr": "earbandage",
+		"price": 65,
+		"category": "Simple parts",
+		"defname": "EarBandage"
+	},
+	{
+		"abr": "exoskeletonsuit",
+		"price": 3708,
+		"category": "Ultratech",
+		"defname": "ExoskeletonSuit"
+	},
+	{
+		"abr": "eyepatch",
+		"price": 65,
+		"category": "Simple parts",
+		"defname": "EyePatch"
+	},
+	{
+		"abr": "goldeneye",
+		"price": 47,
+		"category": "Prosthetic",
+		"defname": "GoldenEye"
+	},
+	{
+		"abr": "hookhand",
+		"price": 94,
+		"category": "Simple parts",
+		"defname": "HookHand"
+	},
+	{
+		"abr": "hydraulicjaw",
+		"price": 279,
+		"category": "Prosthetic",
+		"defname": "HydraulicJaw"
+	},
+	{
+		"abr": "largedeepbluestation",
+		"price": 8333,
+		"category": "Misc",
+		"defname": "Moyo_DBLS"
+	},
+	{
+		"abr": "lightreceptor",
+		"price": 508,
+		"category": "Prosthetic",
+		"defname": "LightReceptor"
+	},
+	{
+		"abr": "medicalribreplacement",
+		"price": 650,
+		"category": "Bionic",
+		"defname": "MedicalRib"
+	},
+	{
+		"abr": "musclestimulator",
+		"price": 4167,
+		"category": "Archotech",
+		"defname": "MuscleStimulator"
+	},
+	{
+		"abr": "painkillerribreplacement",
+		"price": 833,
+		"category": "Bionic",
+		"defname": "PainkillerRib"
+	},
+	{
+		"abr": "pegleg",
+		"price": 115,
+		"category": "Simple parts",
+		"defname": "PegLeg"
+	},
+	{
+		"abr": "powerarm",
+		"price": 3450,
+		"category": "Bionic",
+		"defname": "PowerArm"
+	},
+	{
+		"abr": "prostheticstable",
+		"price": 3325,
+		"category": "Production",
+		"defname": "TableProsthetics"
+	},
+	{
+		"abr": "silentjaw",
+		"price": 583,
+		"category": "Bionic",
+		"defname": "SilentJaw"
+	},
+	{
+		"abr": "simpleprostheticfoot",
+		"price": 475,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticFoot"
+	},
+	{
+		"abr": "simpleprosthetichand",
+		"price": 475,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticHand"
+	},
+	{
+		"abr": "steelarm",
+		"price": 173,
+		"category": "Simple parts",
+		"defname": "SteelArm"
+	},
+	{
+		"abr": "surrogatekidney",
+		"price": 583,
+		"category": "Prosthetic",
+		"defname": "SurrogateKidney"
+	},
+	{
+		"abr": "surrogateliver",
+		"price": 583,
+		"category": "Prosthetic",
+		"defname": "SurrogateLiver"
+	},
+	{
+		"abr": "surrogatelung",
+		"price": 583,
+		"category": "Prosthetic",
+		"defname": "SurrogateLung"
+	},
+	{
+		"abr": "surrogatestomach",
+		"price": 583,
+		"category": "Prosthetic",
+		"defname": "SurrogateStomach"
+	},
+	{
+		"abr": "synthetickidney",
+		"price": 1183,
+		"category": "Bionic",
+		"defname": "SyntheticKidney"
+	},
+	{
+		"abr": "syntheticliver",
+		"price": 1183,
+		"category": "Bionic",
+		"defname": "SyntheticLiver"
+	},
+	{
+		"abr": "syntheticlung",
+		"price": 1183,
+		"category": "Bionic",
+		"defname": "SyntheticLung"
+	},
+	{
+		"abr": "tacticalcorneaimplant",
+		"price": 4167,
+		"category": "Archotech",
+		"defname": "TacticalCorneaImplant"
+	},
+	{
+		"abr": "tissueprinter",
+		"price": 3167,
+		"category": "Production",
+		"defname": "TableOrgans"
+	},
+	{
+		"abr": "woodenfoot",
+		"price": 65,
+		"category": "Simple parts",
+		"defname": "WoodenFoot"
+	},
+	{
+		"abr": "incendiarylauncher",
+		"price": 567,
+		"category": "Ranged weapons",
+		"defname": "Gun_IncendiaryLauncher"
+	},
+	{
+		"abr": "sniperrifle",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "Gun_SniperRifle"
+	},
+	{
+		"abr": "antennatower",
+		"price": 875,
+		"category": "Misc",
+		"defname": "FT_AntennaTower"
+	},
+	{
+		"abr": "antiairgun",
+		"price": 3392,
+		"category": "Security",
+		"defname": "FT_TurretAA"
+	},
+	{
+		"abr": "antitankgun",
+		"price": 3617,
+		"category": "Security",
+		"defname": "FT_TurretAT"
+	},
+	{
+		"abr": "autocannon",
+		"price": 667,
+		"category": "Security",
+		"defname": "FT_AutoCannon"
+	},
+	{
+		"abr": "chemistrytable",
+		"price": 1767,
+		"category": "Production",
+		"defname": "FT_TableChemistry"
+	},
+	{
+		"abr": "concretebarrier",
+		"price": 16,
+		"category": "Security",
+		"defname": "FT_Barrier"
+	},
+	{
+		"abr": "concreteblocks",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "FT_BlocksConcrete"
+	},
+	{
+		"abr": "concretemixer",
+		"price": 600,
+		"category": "Production",
+		"defname": "FT_TableConcrete"
+	},
+	{
+		"abr": "diagonalconcretebarrier",
+		"price": 16,
+		"category": "Security",
+		"defname": "FT_BarrierDiagonal"
+	},
+	{
+		"abr": "e.n.i.a.c.",
+		"price": 3583,
+		"category": "Misc",
+		"defname": "FT_ENIAC"
+	},
+	{
+		"abr": "fiberconcreteplank",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "FT_WoodConcrete"
+	},
+	{
+		"abr": "hexagonalmortarlauncher",
+		"price": 7633,
+		"category": "Security",
+		"defname": "FT_TurretHexMortar"
+	},
+	{
+		"abr": "infantrymortar",
+		"price": 1175,
+		"category": "Security",
+		"defname": "FT_Turret_Mortar"
+	},
+	{
+		"abr": "lathe",
+		"price": 933,
+		"category": "Production",
+		"defname": "FT_TableLathe"
+	},
+	{
+		"abr": "machinegunbunker",
+		"price": 1142,
+		"category": "Misc",
+		"defname": "FT_Turret_BunkerM"
+	},
+	{
+		"abr": "machinegunbunker",
+		"price": 1150,
+		"category": "Misc",
+		"defname": "FT_Turret_BunkerC"
+	},
+	{
+		"abr": "machinegunnest",
+		"price": 1142,
+		"category": "Misc",
+		"defname": "FT_Turret_Bunker"
+	},
+	{
+		"abr": "militarymachinegunnest",
+		"price": 1142,
+		"category": "Misc",
+		"defname": "FT_Turret_BunkerF"
+	},
+	{
+		"abr": "militarysandbag",
+		"price": 25,
+		"category": "Misc",
+		"defname": "FT_Sandbag"
+	},
+	{
+		"abr": "militarysandbagwall",
+		"price": 36,
+		"category": "Misc",
+		"defname": "FT_WallSandbag"
+	},
+	{
+		"abr": "mobilechemfuelgenerator",
+		"price": 492,
+		"category": "Security",
+		"defname": "FT_FuelGenerator"
+	},
+	{
+		"abr": "packedconcrete",
+		"price": 83,
+		"category": "Manufactured",
+		"defname": "FT_ConcreteCompressed"
+	},
+	{
+		"abr": "quadmachinegun",
+		"price": 700,
+		"category": "Security",
+		"defname": "FT_Maxim4M"
+	},
+	{
+		"abr": "radioterminal",
+		"price": 278,
+		"category": "Security",
+		"defname": "FT_Radio"
+	},
+	{
+		"abr": "recoillessgun",
+		"price": 1758,
+		"category": "Security",
+		"defname": "FT_RecoillessGun"
+	},
+	{
+		"abr": "reinforcedconcrete",
+		"price": 1,
+		"category": "Stone blocks",
+		"defname": "FT_ReinforcedConcreteBag"
+	},
+	{
+		"abr": "tanktrap",
+		"price": 9,
+		"category": "Misc",
+		"defname": "FT_TankTrap"
+	},
+	{
+		"abr": "tetrapods",
+		"price": 16,
+		"category": "Security",
+		"defname": "FT_Tetrapods"
+	},
+	{
+		"abr": "woodencanopy",
+		"price": 104,
+		"category": "Furniture",
+		"defname": "WoodenCanopy"
+	},
+	{
+		"abr": "fieldcannon",
+		"price": 5042,
+		"category": "Security",
+		"defname": "FT_TurretEmpero"
+	},
+	{
+		"abr": "fortifiedartillery",
+		"price": 1167,
+		"category": "Security",
+		"defname": "FT_VFES_Turret_Artillery"
+	},
+	{
+		"abr": "fortifiedplatform",
+		"price": 51,
+		"category": "Misc",
+		"defname": "FT_Platform"
+	},
+	{
+		"abr": "fortifiedtrench",
+		"price": 51,
+		"category": "Misc",
+		"defname": "FT_Trench"
+	},
 	],
-	"total": 1220
+	"total": 1600
 }
