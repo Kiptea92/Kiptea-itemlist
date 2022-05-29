@@ -1435,13 +1435,13 @@
 		"defname": "Gun_Autopistol"
 	},
 	{
-		"abr": "FLE-17",
+		"abr": "MachinePistol",
 		"price": 367,
 		"category": "Ranged weapons",
 		"defname": "Gun_MachinePistol"
 	},
 	{
-		"abr": "Model-8",
+		"abr": "BoltActionRifle",
 		"price": 425,
 		"category": "Ranged weapons",
 		"defname": "Gun_BoltActionRifle"
