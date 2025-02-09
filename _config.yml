@@ -29,7 +29,7 @@ store:
     karma: false
     # Whether or not the kind list will display the command a viewer should type for purchasing that kind.
     usage: false
-  items:
+  titems:
     # Whether or not the item list will display an item's in-game category.
     category: true
     # Whether or not the item list will display an item's purchase weight.
