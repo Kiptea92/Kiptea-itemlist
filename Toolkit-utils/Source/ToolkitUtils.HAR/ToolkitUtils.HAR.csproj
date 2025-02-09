@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net48</TargetFramework>
+        <CompatibilityFor>AlienRace</CompatibilityFor>
+    </PropertyGroup>
+    <ItemGroup>
+        <Reference Include="AlienRace">
+            <HintPath>$(RimWorldWorkshopRoot)\839005762\1.5\Assemblies\AlienRace.dll</HintPath>
+            <Private>False</Private>
+        </Reference>
+    </ItemGroup>
+    <ItemGroup>
+        <ProjectReference Include="..\ToolkitUtils\ToolkitUtils.csproj" Private="false" ExcludeAssets="runtime"/>
+    </ItemGroup>
+</Project>
