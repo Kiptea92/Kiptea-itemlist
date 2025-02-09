@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ ToolkitUtils
+  ~ Copyright (C) 2021  SirRandoo
+  ~
+  ~ This program is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU Affero General Public License as published
+  ~ by the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ This program is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU Affero General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU Affero General Public License
+  ~ along with this program.  If not, see <https://www.gnu.org/licenses/>.
+  -->
+
+<LanguageData>
+    <TKUtils.NoPawn>Você não está nessa colônia.</TKUtils.NoPawn>
+    <TKUtils.NoMap>Nenhum mapa apropriado pôde ser encontrado.</TKUtils.NoMap>
+    <TKUtils.NotAColor>"{0}" não é uma cor válida.</TKUtils.NotAColor>
+    <TKUtils.HasPawn>Você já está nessa colônia.</TKUtils.HasPawn>
+    <TKUtils.PawnNotFound>{0} não está nessa colônia.</TKUtils.PawnNotFound>
+    <TKUtils.FailedParms>Não foi possível gerar os parâmetros para {0}</TKUtils.FailedParms>
+    <TKUtils.DisabledItem>O item requisitado está desativado.</TKUtils.DisabledItem>
+    <TKUtils.NotInjured>Você não tem nenhum ferimento curável!</TKUtils.NotInjured>
+    <TKUtils.NoAnimals>Animais não podem ser comprados com esse comando!</TKUtils.NoAnimals>
+    <TKUtils.InCombat>Isso não pode ser feito durante um combate.</TKUtils.InCombat>
+    <TKUtils.Paused>Essa ação não pode ser realizada enquanto o jogo estiver pausado.</TKUtils.Paused>
+    <TKUtils.InputUnsupported>{0} não são suportados por esse comando!</TKUtils.InputUnsupported>
+    <TKUtils.Overflowed>A ação requisitada excederia o limite de número inteiro.</TKUtils.Overflowed>
+    <TKUtils.InvalidItemQuery>Nenhum item de nome "{0}" foi encontrado.</TKUtils.InvalidItemQuery>
+    <TKUtils.InvalidTraitQuery>Nenhuma característica de nome "{0}" foi encontrada.</TKUtils.InvalidTraitQuery>
+    <TKUtils.InvalidSkillQuery>Nenhuma habilidade de nome "{0}" foi encontrada.</TKUtils.InvalidSkillQuery>
+    <TKUtils.InvalidKindQuery>Nenhum tipo de colono de nome "{0}" foi encontrado.</TKUtils.InvalidKindQuery>
+    <TKUtils.InvalidViewerQuery>No viewer by the name of "{0}" could be found.</TKUtils.InvalidViewerQuery>
+    <TKUtils.InformativeDisabledItem>O item requisitado ({0}) está desativado.</TKUtils.InformativeDisabledItem>
+    <TKUtils.WagerRequired>O seu balanço de {0} não é suficiente para o mínimo requerido de {1}.</TKUtils.WagerRequired>
+    <TKUtils.InsufficientBalance>O item requisitado custa {0} moedas, mas você só tem {1} moedas.</TKUtils.InsufficientBalance>
+    <TKUtils.ResearchRequired>Essa colônia precisa pesquisar os seguinte pré-requisitos antes que "{0}" esteja disponível: {1}</TKUtils.ResearchRequired>
+    <TKUtils.PausedExtended>Essa ação não pode ser realizada enquanto o jogo estiver pausado. Se o problema persistir, considere usar o comando !{0}.</TKUtils.PausedExtended>
+</LanguageData>
